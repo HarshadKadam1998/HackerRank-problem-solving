@@ -1,7 +1,7 @@
 /*
 Absolute Permutation:
 The problem-statement can be accessed using following link --->
-https://www.hackerrank.com/challenges/3d-surface-area
+https://www.hackerrank.com/challenges/absolute-permutation
 */
 
 import java.io.*;
